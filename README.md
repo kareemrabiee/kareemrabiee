@@ -1,10 +1,12 @@
+<div align="center">
+
 # 👨‍💻 Kareem Rabie
 
 **Cloud Security & Network Engineering | AWS & Google Cloud Certified | CCNA-Level Networking**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-rabiee)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareemrabiee)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
@@ -65,6 +67,7 @@ AI-powered medical image analysis system for Keratoconus detection.
 ---
 
 ## 🎯 **Currently Learning**
+- Cloud Solution Architect
 - Kubernetes Security & Containerization
 - Network Automation with Python
 - Advanced Cloud Security Architecture
