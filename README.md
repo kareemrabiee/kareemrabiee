@@ -58,9 +58,10 @@ Enterprise network with multi-layer security using Cisco technologies.
 ---
 
 ### [Smart Healthcare AI Platform](https://github.com/kareemrabiee/smart-healthcare-ai-platform)
-AI-based system for **Keratoconus detection** in healthcare.  
+AI-based system for **Keratoconus detection** in healthcare.
 
-**Technologies:** Python · Flask · TensorFlow · Keras · SQLite  
+**My Contribution:** Developed the AI/ML Model for diagnosis.  
+**Technologies I used:** Python · TensorFlow · Keras · Flask (for AI integration)  
 **Status:** 🎓 Graduation Project | AI/ML in Healthcare  
 [📄 View README](https://github.com/kareemrabiee/smart-healthcare-ai-platform/blob/main/README.md)
 
